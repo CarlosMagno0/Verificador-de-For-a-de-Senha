@@ -1,0 +1,1 @@
+# Verificador-de-For-a-de-Senha
